@@ -1,0 +1,17 @@
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\bin\Debug\netcoreapp2.2\HiberusAPIEntidades.deps.json
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\bin\Debug\netcoreapp2.2\HiberusAPIEntidades.dll
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\bin\Debug\netcoreapp2.2\HiberusAPIEntidades.pdb
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.AssemblyInfo.cs
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.dll
+C:\Users\javie\source\repos\HiberusAPINEW\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.pdb
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\bin\Debug\netcoreapp2.2\HiberusAPIEntidades.deps.json
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\bin\Debug\netcoreapp2.2\HiberusAPIEntidades.dll
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\bin\Debug\netcoreapp2.2\HiberusAPIEntidades.pdb
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.AssemblyInfo.cs
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.dll
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.pdb
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPIEntidades\obj\Debug\netcoreapp2.2\HiberusAPIEntidades.csprojAssemblyReference.cache

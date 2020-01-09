@@ -1,0 +1,14 @@
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\bin\Debug\netcoreapp2.1\HiberusAPI.deps.json
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\bin\Debug\netcoreapp2.1\HiberusAPI.runtimeconfig.json
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\bin\Debug\netcoreapp2.1\HiberusAPI.runtimeconfig.dev.json
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\bin\Debug\netcoreapp2.1\HiberusAPI.dll
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\bin\Debug\netcoreapp2.1\HiberusAPI.pdb
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.RazorAssemblyInfo.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.RazorAssemblyInfo.cs
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.AssemblyInfo.cs
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.RazorTargetAssemblyInfo.cache
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.dll
+C:\Users\javie\source\repos\HiberusAPI\HiberusAPI\obj\Debug\netcoreapp2.1\HiberusAPI.pdb

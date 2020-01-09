@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\javie\\source\\repos\\HiberusAPI\\NUnitTestHiberusAPI\\NUnitTestHiberusAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIDatosContext\\HiberusAPIDatosContext.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIDatosContext\\HiberusAPIDatosContext.csproj",
+        "projectName": "HiberusAPIDatosContext",
+        "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIDatosContext\\HiberusAPIDatosContext.csproj",
+        "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIDatosContext\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj": {
+                "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj",
+        "projectName": "HiberusAPIEntidades",
+        "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj",
+        "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPINegocio\\HiberusAPINegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPINegocio\\HiberusAPINegocio.csproj",
+        "projectName": "HiberusAPINegocio",
+        "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPINegocio\\HiberusAPINegocio.csproj",
+        "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPINegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIDatosContext\\HiberusAPIDatosContext.csproj": {
+                "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIDatosContext\\HiberusAPIDatosContext.csproj"
+              },
+              "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj": {
+                "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPIEntidades\\HiberusAPIEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\javie\\source\\repos\\HiberusAPI\\NUnitTestHiberusAPI\\NUnitTestHiberusAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\NUnitTestHiberusAPI\\NUnitTestHiberusAPI.csproj",
+        "projectName": "NUnitTestHiberusAPI",
+        "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\NUnitTestHiberusAPI\\NUnitTestHiberusAPI.csproj",
+        "packagesPath": "C:\\Users\\javie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\NUnitTestHiberusAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\javie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPINegocio\\HiberusAPINegocio.csproj": {
+                "projectPath": "C:\\Users\\javie\\source\\repos\\HiberusAPI\\HiberusAPINegocio\\HiberusAPINegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
